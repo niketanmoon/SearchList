@@ -1,1 +1,1 @@
-web: gunicorn SearchList.wsgi 
+web: gunicorn project.wsgi
